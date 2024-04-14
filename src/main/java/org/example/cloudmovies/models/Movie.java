@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import lombok.Data;
 
 @Data
-@Entity
+@Entity(name = "sv_37_2021")
 public class Movie {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
