@@ -1,4 +1,4 @@
-org/example/cloudmovies/CloudMoviesApplication.class
-org/example/cloudmovies/controllers/MoviesController.class
-org/example/cloudmovies/repositories/MoviesRepository.class
-org/example/cloudmovies/models/Movie.class
+org\example\cloudmovies\repositories\MoviesRepository.class
+org\example\cloudmovies\models\Movie.class
+org\example\cloudmovies\CloudMoviesApplication.class
+org\example\cloudmovies\controllers\MoviesController.class
